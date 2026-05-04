@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 0.96
+  response: 7E8056212C30040
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 0.975
+  response: 7E8056212C30041
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 0.99
+  response: 7E8056212C30042
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.005
+  response: 7E8056212C30043
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.02
+  response: 7E8056212C30044
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.035
+  response: 7E8056212C30045
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.05
+  response: 7E8056212C30046
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.095
+  response: 7E8056212C30049
