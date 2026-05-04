@@ -1,0 +1,46 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Blazer"
+  - "https://en.wikipedia.org/wiki/Chevrolet_K5_Blazer"
+  - "https://en.wikipedia.org/wiki/Chevrolet_S-10_Blazer"
+  - "https://en.wikipedia.org/wiki/Chevrolet_Blazer_(crossover)"
+
+generations:
+  - name: "Full-Size Blazer (K5 Action Line)"
+    start_year: 1969
+    end_year: 1972
+    description: "The original Chevrolet Blazer debuted for 1969 as a shortened, full-size SUV derived from the half-ton C/K pickup. Initially offered only with four-wheel drive, it combined pickup-truck durability with a removable hardtop or soft top, giving Chevrolet a direct competitor to the Ford Bronco and International Scout. Compared with its rivals, the K5 offered more interior space, broader powertrain choices that included inline-six and V8 engines, and greater parts commonality with Chevrolet trucks. This first Blazer established the nameplate as a rugged, recreational off-road vehicle with genuine utility and strong road manners for the period."
+
+  - name: "Full-Size Blazer (K5 Rounded Line)"
+    start_year: 1973
+    end_year: 1991
+    description: "The second-generation K5 Blazer adopted GM's Rounded Line truck architecture and remained in production for nearly two decades, making it the definitive classic full-size Blazer. It grew in size, added more comfort and luxury features, and evolved from a simple removable-top utility vehicle into a more refined family SUV while retaining body-on-frame construction and serious four-wheel-drive capability. Over its long run it received updated styling, new transfer cases, diesel and gasoline engine options, and an increasingly upscale equipment mix. By the 1980s the K5 Blazer had become one of GM's core truck-based SUVs and an icon of the square-body era."
+
+  - name: "S-10 Blazer (First Generation)"
+    start_year: 1983
+    end_year: 1994
+    description: "Introduced as a 1983 model, the compact S-10 Blazer brought the Blazer name to the smaller GM S-truck platform and effectively created a more affordable, maneuverable 'baby Blazer' alongside the full-size model. Built from the Chevrolet S-10 pickup, it was initially offered only as a two-door before gaining a four-door body style for 1991. Early models used four-cylinder and V6 engines, but the 4.3L V6 became the signature powertrain as the line matured. The first S-10 Blazer broadened the Blazer nameplate's appeal by offering truck-based SUV capability in a package better suited to everyday use and emerging compact SUV demand."
+
+  - name: "Full-Size Blazer (GMT400)"
+    start_year: 1992
+    end_year: 1994
+    description: "For 1992, Chevrolet redesigned the full-size Blazer on the GMT400 architecture, moving away from the earlier removable-top configuration to a more integrated three-door wagon body shared more closely with the Suburban. The model gained improved ride quality, updated styling, independent front suspension, and more modern interiors and safety features. This short-lived generation represented the final chapter of the truck-based full-size Blazer before Chevrolet renamed it the Tahoe for 1995. It also marked the moment when the smaller S-series model inherited the primary Blazer identity in North America."
+
+  - name: "Blazer (Second-Generation S-Series)"
+    start_year: 1995
+    end_year: 2005
+    description: "Redesigned for the 1995 model year, the second-generation S-series Blazer dropped the 'S-10' prefix in North America after the full-size model became the Tahoe. Built on the GMT330 platform, it grew in size, moved further into the mid-size SUV segment, and launched with a 4.3L V6 and two-door or four-door body styles. A major refresh for 1998 brought new front-end styling, an updated dashboard, and improved safety equipment, while special variants such as the TrailBlazer appearance package, Xtreme, and ZR2 emphasized street style or off-road ability. This generation remained a mainstream GM SUV through the early 2000s until it was replaced in North America by the TrailBlazer and Equinox."
+
+  - name: "Blazer (Brazilian Continued Production)"
+    start_year: 2006
+    end_year: 2012
+    description: "Although North American production ended after the 2005 model year, the second-generation Blazer continued in Brazil through 2012 with localized engines, sheetmetal revisions, and regional market positioning. This extended-production version preserved the truck-based character of the earlier S-series Blazer while serving South American demand for a durable midsize utility vehicle. Its long life reflected the strength of the underlying platform and the flexibility of GM's global manufacturing strategy. The 2012 end of Brazilian production closed the chapter on the traditional body-on-frame Blazer line."
+
+  - name: "Blazer Crossover (C1XX)"
+    start_year: 2019
+    end_year: 2022
+    description: "Chevrolet revived the Blazer name for the 2019 model year as a two-row midsize crossover SUV built on GM's C1XX architecture, positioned between the Equinox and Traverse. Instead of reviving the old truck-based formula, GM gave the new Blazer a road-focused design with styling inspired by the Camaro, available front-wheel drive or all-wheel drive, and a choice of four-cylinder or V6 power. The move was controversial among enthusiasts of the earlier K5 and S-10 models, but the crossover established a modern, more urban interpretation of the nameplate. It emphasized technology, infotainment, and sporty visual design rather than off-road heritage."
+
+  - name: "Blazer Crossover (2023 Facelift)"
+    start_year: 2023
+    end_year: null
+    description: "The refreshed 2023 Blazer updated the C1XX crossover with revised front and rear lighting, a new grille design, larger available wheel options, and a more modernized interior featuring a standard 10-inch infotainment display. Chevrolet also expanded standard driver-assistance content and improved trim differentiation, especially on RS and Premier models. The facelift preserved the same basic platform and midsize crossover layout while keeping the Blazer competitive in a crowded segment. This version remains Chevrolet's mainstream combustion-powered Blazer in current production."
