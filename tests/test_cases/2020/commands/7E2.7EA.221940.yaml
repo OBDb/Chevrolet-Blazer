@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     BLAZER_ATF_T: 59
   response: 7EA0462194063
+- expected_values:
+    BLAZER_ATF_T: 60
+  response: 7EA0462194064
+- expected_values:
+    BLAZER_ATF_T: 61
+  response: 7EA0462194065

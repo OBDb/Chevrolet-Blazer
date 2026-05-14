@@ -4,11 +4,26 @@ test_cases:
     BLAZER_COOLING_FAN_MOTOR_CMD: 0
   response: 7E8046213AF00
 - expected_values:
+    BLAZER_COOLING_FAN_MOTOR_CMD: 1.56863
+  response: 7E8046213AF04
+- expected_values:
+    BLAZER_COOLING_FAN_MOTOR_CMD: 3.52941
+  response: 7E8046213AF09
+- expected_values:
     BLAZER_COOLING_FAN_MOTOR_CMD: 4.70588
   response: 7E8046213AF0C
 - expected_values:
+    BLAZER_COOLING_FAN_MOTOR_CMD: 5.09804
+  response: 7E8046213AF0D
+- expected_values:
     BLAZER_COOLING_FAN_MOTOR_CMD: 12.54902
   response: 7E8046213AF20
+- expected_values:
+    BLAZER_COOLING_FAN_MOTOR_CMD: 19.60784
+  response: 7E8046213AF32
+- expected_values:
+    BLAZER_COOLING_FAN_MOTOR_CMD: 20.39216
+  response: 7E8046213AF34
 - expected_values:
     BLAZER_COOLING_FAN_MOTOR_CMD: 33.72549
   response: 7E8046213AF56
