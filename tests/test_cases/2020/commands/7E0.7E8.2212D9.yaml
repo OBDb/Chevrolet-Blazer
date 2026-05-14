@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     BLAZER_TOTAL_KNOCK_RETARD: 0.9
   response: 7E8046212D902
+- expected_values:
+    BLAZER_TOTAL_KNOCK_RETARD: 7.65
+  response: 7E8046212D911
+- expected_values:
+    BLAZER_TOTAL_KNOCK_RETARD: 12.6
+  response: 7E8046212D91C

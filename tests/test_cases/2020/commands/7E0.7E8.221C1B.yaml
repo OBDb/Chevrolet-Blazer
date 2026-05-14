@@ -9,3 +9,24 @@ test_cases:
 - expected_values:
     BLAZER_EOP_CALC: 256
   response: 7E804621C1B40
+- expected_values:
+    BLAZER_EOP_CALC: 276
+  response: 7E804621C1B45
+- expected_values:
+    BLAZER_EOP_CALC: 280
+  response: 7E804621C1B46
+- expected_values:
+    BLAZER_EOP_CALC: 288
+  response: 7E804621C1B48
+- expected_values:
+    BLAZER_EOP_CALC: 296
+  response: 7E804621C1B4A
+- expected_values:
+    BLAZER_EOP_CALC: 308
+  response: 7E804621C1B4D
+- expected_values:
+    BLAZER_EOP_CALC: 312
+  response: 7E804621C1B4E
+- expected_values:
+    BLAZER_EOP_CALC: 320
+  response: 7E804621C1B50

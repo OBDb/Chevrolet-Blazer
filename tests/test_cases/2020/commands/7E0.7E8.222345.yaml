@@ -4,11 +4,5 @@ test_cases:
     BLAZER_EOP: 0
   response: '7E80462234500'
 - expected_values:
-    BLAZER_EOP: 256
-  response: '7E80462234540'
-- expected_values:
-    BLAZER_EOP: 260
-  response: '7E80462234541'
-- expected_values:
-    BLAZER_EOP: 264
-  response: '7E80462234542'
+    BLAZER_EOP: 480
+  response: '7E80462234578'

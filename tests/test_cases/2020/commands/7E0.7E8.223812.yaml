@@ -4,11 +4,29 @@ test_cases:
     BLAZER_COOLING_FAN_CMD: 0
   response: '7E80462381200'
 - expected_values:
+    BLAZER_COOLING_FAN_CMD: 1.56863
+  response: '7E80462381204'
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 3.13725
+  response: '7E80462381208'
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 3.52941
+  response: '7E80462381209'
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 5.4902
+  response: 7E8046238120E
+- expected_values:
     BLAZER_COOLING_FAN_CMD: 5.88235
   response: 7E8046238120F
 - expected_values:
     BLAZER_COOLING_FAN_CMD: 14.11765
   response: '7E80462381224'
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 16.47059
+  response: 7E8046238122A
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 19.21569
+  response: '7E80462381231'
 - expected_values:
     BLAZER_COOLING_FAN_CMD: 31.76471
   response: '7E80462381251'
