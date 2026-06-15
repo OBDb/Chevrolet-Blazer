@@ -7,6 +7,12 @@ test_cases:
     BLAZER_RUNTM: 36
   response: 7E8056211A10024
 - expected_values:
+    BLAZER_RUNTM: 39
+  response: 7E8056211A10027
+- expected_values:
+    BLAZER_RUNTM: 97
+  response: 7E8056211A10061
+- expected_values:
     BLAZER_RUNTM: 3101
   response: 7E8056211A10C1D
 - expected_values:
