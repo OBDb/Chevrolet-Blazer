@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.223812
 test_cases:
 - expected_values:
+    BLAZER_COOLING_FAN_CMD: 46.66667
+  response: '7E80462381277'
+- expected_values:
+    BLAZER_COOLING_FAN_CMD: 48.23529
+  response: 7E8046238127B
+- expected_values:
     BLAZER_COOLING_FAN_CMD: 56.86275
   response: '7E80462381291'
 - expected_values:

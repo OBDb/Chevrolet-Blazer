@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2212C3
 test_cases:
 - expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.14
+  response: 7E8056212C3004C
+- expected_values:
+    BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.155
+  response: 7E8056212C3004D
+- expected_values:
     BLAZER_INJECTOR_DUTY_CYCLE_BANK_1: 1.23
   response: 7E8056212C30052
 - expected_values:

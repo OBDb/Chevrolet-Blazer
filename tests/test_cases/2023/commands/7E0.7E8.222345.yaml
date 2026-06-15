@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     BLAZER_EOP: 244
   response: 7E8046223453D
+- expected_values:
+    BLAZER_EOP: 304
+  response: 7E8046223454C
+- expected_values:
+    BLAZER_EOP: 308
+  response: 7E8046223454D
