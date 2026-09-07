@@ -1,0 +1,14 @@
+command_id: 7E0.2211A1|f=2001-
+test_cases:
+- expected_values:
+    BLAZER_RUNTM: 53
+  response: 7E8056211A10035
+- expected_values:
+    BLAZER_RUNTM: 292
+  response: 7E8056211A10124
+- expected_values:
+    BLAZER_RUNTM: 497
+  response: 7E8056211A101F1
+- expected_values:
+    BLAZER_RUNTM: 814
+  response: 7E8056211A1032E
