@@ -4,11 +4,11 @@ test_cases:
     BLAZER_RUNTM: 53
   response: 7E8056211A10035
 - expected_values:
-    BLAZER_RUNTM: 292
-  response: 7E8056211A10124
+    BLAZER_RUNTM: 1282
+  response: 7E8056211A10502
 - expected_values:
-    BLAZER_RUNTM: 497
-  response: 7E8056211A101F1
+    BLAZER_RUNTM: 1526
+  response: 7E8056211A105F6
 - expected_values:
-    BLAZER_RUNTM: 814
-  response: 7E8056211A1032E
+    BLAZER_RUNTM: 1591
+  response: 7E8056211A10637

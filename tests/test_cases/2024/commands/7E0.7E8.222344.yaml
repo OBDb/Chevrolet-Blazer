@@ -4,5 +4,5 @@ test_cases:
     BLAZER_EOP_ABS: 96
   response: '7E80462234418'
 - expected_values:
-    BLAZER_EOP_ABS: 316
-  response: 7E8046223444F
+    BLAZER_EOP_ABS: 328
+  response: '7E80462234452'

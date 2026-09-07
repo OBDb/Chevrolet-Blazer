@@ -4,5 +4,5 @@ test_cases:
     BLAZER_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    BLAZER_VSS: 60
-  response: 7E80462000D3C
+    BLAZER_VSS: 87
+  response: 7E80462000D57
