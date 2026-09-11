@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    BLAZER_EOT_CALC: 36
-  response: 7E8046211544C
+    BLAZER_EOT_CALC: 21
+  response: 7E8046211543D
 - expected_values:
     BLAZER_EOT_CALC: 100
   response: 7E8046211548C
