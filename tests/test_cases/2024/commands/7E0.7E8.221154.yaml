@@ -4,5 +4,5 @@ test_cases:
     BLAZER_EOT_CALC: 21
   response: 7E8046211543D
 - expected_values:
-    BLAZER_EOT_CALC: 100
-  response: 7E8046211548C
+    BLAZER_EOT_CALC: 101
+  response: 7E8046211548D
