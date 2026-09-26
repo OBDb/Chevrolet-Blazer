@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E2", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "7E0", "cmd": {"22": "11A1"}, "freq": 1, "filter": { "from": 2001 }, "dbgfilter": { "to": 2019, "years": [2021], "from": 2025 },
   "signals": [
     {"id": "BLAZER_RUNTM", "path": "Clocks", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Time since engine start"}
