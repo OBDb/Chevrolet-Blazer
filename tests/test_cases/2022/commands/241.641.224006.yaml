@@ -1,0 +1,5 @@
+command_id: 241.641.224006
+test_cases:
+- expected_values:
+    BLAZER_TID_FR: 2167377562
+  response: 64107624006812F8E9A
