@@ -4,5 +4,5 @@ test_cases:
     BLAZER_ATF_T: 41
   response: 7EA0462194051
 - expected_values:
-    BLAZER_ATF_T: 57
-  response: 7EA0462194061
+    BLAZER_ATF_T: 102
+  response: 7EA046219408E
