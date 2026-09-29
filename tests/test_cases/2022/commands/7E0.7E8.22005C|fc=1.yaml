@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22005C|fc=1
+test_cases:
+- expected_values:
+    BLAZER_EOT: 52
+  response: 7E80462005C5C
+- expected_values:
+    BLAZER_EOT: 107
+  response: 7E80462005C93
