@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     BLAZER_VSS: 77
   response: 7E80462000D4D
+- expected_values:
+    BLAZER_VSS: null
+  response: 7E80462000DFF
