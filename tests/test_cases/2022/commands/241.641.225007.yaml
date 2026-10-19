@@ -1,8 +1,8 @@
 command_id: 241.641.225007
 test_cases:
 - expected_values:
-    BLAZER_TP_RR: 206.25
-  response: 641056250070CE4
+    BLAZER_TP_RR: 200.75
+  response: 641056250070C8C
 - expected_values:
     BLAZER_TP_RR: 209
   response: 641056250070D10
