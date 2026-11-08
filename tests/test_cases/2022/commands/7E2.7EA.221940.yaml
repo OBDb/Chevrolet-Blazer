@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.221940
 test_cases:
 - expected_values:
-    BLAZER_ATF_T: 13
-  response: 7EA0462194035
+    BLAZER_ATF_T: 12
+  response: 7EA0462194034
 - expected_values:
     BLAZER_ATF_T: 106
   response: 7EA0462194092
