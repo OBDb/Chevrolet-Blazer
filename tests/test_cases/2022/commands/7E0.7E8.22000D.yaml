@@ -17,8 +17,8 @@ test_cases:
     7E80462000D11
     7E80462230126
 - expected_values:
-    BLAZER_VSS: 139
-  response: 7E80462000D8B
+    BLAZER_VSS: 142
+  response: 7E80462000D8E
 - expected_values:
     BLAZER_VSS: null
   response: 7E80462000DFF
