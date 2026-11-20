@@ -7,8 +7,8 @@ test_cases:
     BLAZER_TP_FR: 209
   response: 641056250060D10
 - expected_values:
-    BLAZER_TP_FR: 239.25
-  response: 641056250060EF4
+    BLAZER_TP_FR: 255.75
+  response: 641056250060FFC
 - expected_values:
-    BLAZER_TP_FR: 242
-  response: 641056250060F20
+    BLAZER_TP_FR: 258.5
+  response: '641056250061028'
