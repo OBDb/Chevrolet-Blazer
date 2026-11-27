@@ -4,5 +4,5 @@ test_cases:
     BLAZER_FLI: 21.17647
   response: 7E80462002F36
 - expected_values:
-    BLAZER_FLI: 77.2549
-  response: 7E80462002FC5
+    BLAZER_FLI: 88.62745
+  response: 7E80462002FE2
